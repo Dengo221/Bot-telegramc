@@ -1,3 +1,3 @@
 <?php
-$bot_token = 'SEU_TOKEN_BOT_TELEGRAM';
-$bot_name = 'MeuBotDeLogin';
+$bot_token = '7596236062:AAG8Qf6goDFzE1bdWjpmePt31aM7P_tSOOo';
+$bot_name = 'music_dng_donwloadbot';
